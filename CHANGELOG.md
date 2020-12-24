@@ -1,8 +1,8 @@
 # Changelog
 
-## [unreleased]((https://github.com/NodeFactoryIo/vedran/tree/HEAD))
+## [v0.4.0]((https://github.com/NodeFactoryIo/vedran/tree/HEAD))
 
-[Full Changelog](https://github.com/NodeFactoryIo/vedran/compare/v0.2.0...HEAD)
+[Full Changelog](https://github.com/NodeFactoryIo/vedran/compare/v0.4.0...HEAD)
 
 ### Added
 - Check if port range valid [\#104](https://github.com/NodeFactoryIo/vedran/pull/104) ([mpetrun5](https://github.com/mpetrun5))
